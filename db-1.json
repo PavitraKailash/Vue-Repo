@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "Jacket",
+      "title": "Leather Jacket",
+      "description": "Good Quality jakcet",
+      "location": "Online Store",
+      "size": "M",
+      "price": "Rs 2500"
+    },
+    {
+      "id": 456,
+      "category": "Socks",
+      "title": "Cotton Socks",
+      "description": "Ankel Socks",
+      "location": "Myntra",
+      "size": "Free Size",
+      "price": "Rs 120",
+    },
+    {
+      "id": 789,
+      "category": "Shirt",
+      "title": "Cotton Shirt",
+      "description": "Cotton Collar Shirt",
+      "location": "Amazon",
+      "size": "S, M, L, XL",
+      "price": "Rs. 2000",
+      "organizer": "Carey Wales"
+    }
+  ]
+}
